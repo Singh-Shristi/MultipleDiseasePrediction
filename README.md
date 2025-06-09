@@ -1,3 +1,4 @@
+
 # 🧑‍⚕️ Multiple Disease Prediction System using Machine Learning
 
 This project is a **Streamlit-based web application** that predicts the likelihood of three major diseases:
@@ -58,5 +59,6 @@ Age, Sex, Chest pain type, Cholesterol, Resting BP, etc.
 
 🔹 Parkinson’s:
 MDVP:Fo(Hz), Jitter(%), Shimmer, HNR, PPE, etc.
+
 
 
